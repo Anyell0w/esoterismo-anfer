@@ -30,7 +30,7 @@ export default function Services() {
     const message = encodeURIComponent(
       `Hola, estoy interesado/a en el ritual de ${ritual}. ¿Podrían darme más información?`,
     )
-    window.open(`https://wa.me/1234567890?text=${message}`, "_blank")
+    window.open(`https://wa.me/51956385805?text=${message}`, "_blank")
   }
 
   return (
